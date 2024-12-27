@@ -19,7 +19,7 @@
 
 🔭 &nbsp;Actualmente estoy trabajando en proyectos personales para mejorar mis habilidades y estoy buscando un trabajo donde aplicar lo aprendido.\
 🌱 &nbsp;Me gusta hacer proyectos que me motiven a aprender cosas nuevas.\
-🎧 &nbsp;Uno de mis hobbies favoritos es escuchar música a alto volumen y programar.\
+🎧 &nbsp;Uno de mis hobbies favoritos es escuchar música a alto volumen y programar.
 
 ## 📊 GitHub Stats:
 
@@ -46,6 +46,4 @@
 </p>
 
 ----
-Credit: [Jair](https://github.com/JairGZZ)
 
-Last Edited on: 27/12/2024
