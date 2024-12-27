@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Hi+Fellow+👋,+I'm+Jair!+Thank+you+for+visiting+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Thank+you+for+visiting+my+profile)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 </p>  
 
-<h2 align="center">Hi Fellow 👋, I'm Jair! Thank you for visiting my profile</h2>
+<h2 align="center">Hi Fellow 👋, I'm Jair!</h2>
 
 ## 💻 Tech Stack:
 
