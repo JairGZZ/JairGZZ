@@ -17,7 +17,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-🔭 &nbsp;Actualmente estoy trabajando en proyectos personales para mejorar mis habilidades y estoy buscando un trabajo donde aplicar lo aprendido.\
+🔭 &nbsp;Actualmente trabajando como programador backend en CasaMarketApp SAC\
 🌱 &nbsp;Me gusta hacer proyectos que me motiven a aprender cosas nuevas.\
 🎧 &nbsp;Uno de mis hobbies favoritos es escuchar música a alto volumen y programar.
 
